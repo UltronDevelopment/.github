@@ -7,4 +7,5 @@
 ### We develop...
 - ...Discord Bots
 - ...Websites
+- ...Dart
 - ...and more!
